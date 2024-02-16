@@ -42,5 +42,5 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 |  ----  | ----   | ----  |----  |
 | v2ray  | [v2rayNG](https://www.ziyuan1.fun/p/blog-page.html) | [v2rayN](https://www.ziyuan1.fun/p/blog-page.html) | [OneClick](https://www.ziyuan1.fun/p/v2ray-ios-oneclick-app.html) |
 ## v2rayN使用教程：[点击查看](https://www.ziyuan1.fun/p/windowspcv2rayn.html) 
-##  订阅链接：<a href="https://telegeam.github.io/blog1" target="_blank">点击进入订阅</a>
+##  订阅链接：<a href="https://github.com/nodesharefree/v2rayfree/blob/146093206a4244404f864d4a320897270bb2bd37/v2ray.txt" target="_blank">点击进入订阅</a>
 
