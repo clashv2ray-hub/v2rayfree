@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-02-18 01:18:05  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-02-19 01:18:05  
 ## 高速机场推荐1
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
@@ -42,5 +42,5 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 |  ----  | ----   | ----  |----  |
 | v2ray  | [v2rayNG](https://www.ziyuan1.fun/p/blog-page.html) | [v2rayN](https://www.ziyuan1.fun/p/blog-page.html) | [OneClick](https://www.ziyuan1.fun/p/v2ray-ios-oneclick-app.html) |
 ## v2rayN使用教程：[点击查看](https://www.ziyuan1.fun/p/windowspcv2rayn.html) 
-##  订阅链接：<a href="https://nodesharefree.github.io/" target="_blank">点击进入订阅</a>
+##  订阅链接：<a href="https://www.ziyuan1.fun/" target="_blank">点击进入订阅</a>
 
