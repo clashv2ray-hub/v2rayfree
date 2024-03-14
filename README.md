@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-03-13 01:18:05  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-03-14 01:18:05  
 ## 高速机场推荐1
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
@@ -9,21 +9,21 @@
 注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
 ##  高速机场推荐2
 
-[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+[【FCCloud】](https://www.fastconnect.cc/#/register?code=9BV1HHRM)
 
 FCCloud全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+注册地址：[【FCCloud（点击注册）】](https://www.fastconnect.cc/#/register?code=9BV1HHRM)
 
 ##  高速机场推荐3
 
-[【快猫】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+[【快猫】](https://ikuaimao.cc/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://ikuaimao.cc/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐4
 
