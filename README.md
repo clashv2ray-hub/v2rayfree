@@ -9,11 +9,11 @@
 注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
 ##  高速机场推荐2
 
-[【FCCloud】](https://www.fastconnect.cc/#/register?code=9BV1HHRM)
+[【FCCloud】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
 
 FCCloud全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnect.cc/#/register?code=9BV1HHRM)
+注册地址：[【FCCloud（点击注册）】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
 
 ##  高速机场推荐3
 
