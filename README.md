@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-04-22 01:18:05  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-04-23 01:18:05  
 ## 高速机场推荐1
 
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
