@@ -49,7 +49,7 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 |  客户端  | Android  | Windows  | iOS  |
 |  ----  | ----   | ----  |----  |
-| v2ray  | [v2rayNG](https://www.fuye.fun/p/blog-page.html) | [v2rayN](https://www.fuye.fun/p/blog-page.html) | [OneClick](https://www.fuye.fun/p/v2ray-ios-oneclick-app.html) |
-## v2rayN使用教程：[点击查看](https://www.fuye.fun/p/windowspcv2rayn.html) 
-##  订阅链接：<a href="https://telegeam.github.io/blog1/" target="_blank">点击进入订阅</a>
+| v2ray  | [v2rayNG](https://www.nodeshare.xyz/p/blog-page.html) | [v2rayN](https://www.nodeshare.xyz/p/blog-page.html) | [OneClick](https://www.nodeshare.xyz/p/v2ray-ios-oneclick-app.html) |
+## v2rayN使用教程：[点击查看](https://www.nodeshare.xyz/p/windowspcv2rayn.html) 
+##  订阅链接：<a href="https://www.nodeshare.xyz" target="_blank">点击进入订阅</a>
 
