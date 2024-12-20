@@ -1,9 +1,9 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-19 02:56:05  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-20 02:56:05  
 
 
-## [TG账号商店 ](https://shop.idbb.me/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://shop.idbb.me/)
+[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
 
 ## 高速机场推荐
