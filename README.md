@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-1-21 02:56:05  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-1-22 02:56:05  
 
 
 ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -269,9 +269,9 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 |  客户端  | Android  | Windows  | iOS  |
 |  :----  | :--------   | :-------  |:----  |
-| v2ray  | [v2rayNG](https://www.nodeshare.xyz/p/blog-page.html) | [v2rayN](https://www.nodeshare.xyz/p/blog-page.html) | [OneClick](https://www.nodeshare.xyz/p/v2ray-ios-oneclick-app.html) |
+| v2ray  | [v2rayNG](https://www.nodeshare.xyz/) | [v2rayN](https://www.nodeshare.xyz/) | [OneClick](https://www.nodeshare.xyz/) |
 
-## v2rayN使用教程：[点击查看](https://www.nodeshare.xyz/p/windowspcv2rayn.html) 
+## v2rayN使用教程：[点击查看](https://www.nodeshare.xyz) 
 
 ##  订阅链接：<a href="https://www.nodeshare.xyz" target="_blank">点击进入订阅</a>
 
