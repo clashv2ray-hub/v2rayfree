@@ -15,7 +15,6 @@
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 8 元 200G/月 |  |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -46,16 +45,6 @@
 
 * * *
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-点击注册：[点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
 
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
@@ -157,16 +146,6 @@
 * * *
 
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-点击注册：[点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
 
 
 
@@ -176,15 +155,7 @@
 解锁流媒体、chatGPT
 
 注册地址：[【火烧云官网（点击注册）】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-## 高速机场推荐1
 
-[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
-##  高速机场推荐2
 
 
 ##  高速机场推荐3
