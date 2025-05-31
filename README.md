@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-5-30 02:56:05  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-5-31 02:56:05  
 
 
 ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -18,7 +18,6 @@
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
