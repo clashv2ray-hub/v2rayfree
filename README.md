@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-6-20 02:56:05  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-6-21 02:56:05  
 
 
 ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -198,9 +198,9 @@
 
 |  客户端  | Android  | Windows  | iOS  |
 |  :----  | :--------   | :-------  |:----  |
-| v2ray  | [v2rayNG](https://www.nodeshare.xyz/) | [v2rayN](https://www.nodeshare.xyz/) | [OneClick](https://www.nodeshare.xyz/) |
+| v2ray  | [v2rayNG](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b) | [v2rayN](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b) | [OneClick](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b) |
 
-## v2rayN使用教程：[点击查看](https://www.nodeshare.xyz) 
+## v2rayN使用教程：[点击查看](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b)
 
-##  订阅链接：<a href="https://www.nodeshare.xyz" target="_blank">点击进入订阅</a>
+##  订阅链接：<a href="https://yfuye.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9" target="_blank">点击进入订阅</a>
 
