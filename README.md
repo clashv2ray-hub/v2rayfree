@@ -61,9 +61,9 @@
 * * *
 
 
-### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [星辰VPN](https://t.xcvpn.us/#/register?code=jWv0CnPO)
 
-点击注册：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+点击注册：[点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)
 
 最便宜的订阅有6元 60G/月。
 
