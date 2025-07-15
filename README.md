@@ -207,9 +207,9 @@
 
 |  客户端  | Android  | Windows  | iOS  |
 |  :----  | :--------   | :-------  |:----  |
-| v2ray  | [v2rayNG](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b) | [v2rayN](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b) | [OneClick](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b) |
+| v2ray  | [v2rayNG](https://yfuye.com/kehuduanshiyongjiaocheng) | [v2rayN](https://yfuye.com/kehuduanshiyongjiaocheng) | [OneClick](https://yfuye.com/kehuduanshiyongjiaocheng) |
 
-## v2rayN使用教程：[点击查看](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b)
+## v2rayN使用教程：[点击查看](https://yfuye.com/kehuduanshiyongjiaocheng)
 
 ##  订阅链接：<a href="https://yfuye.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9" target="_blank">点击进入订阅</a>
 
