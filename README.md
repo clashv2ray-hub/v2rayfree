@@ -211,5 +211,5 @@
 
 ## v2rayN使用教程：[点击查看](https://yfuye.com/kehuduanshiyongjiaocheng)
 
-##  订阅链接：<a href="https://yfuye.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9" target="_blank">点击进入订阅</a>
+##  订阅链接：<a href="https://yfuye.com/freenode" target="_blank">点击进入订阅</a>
 
