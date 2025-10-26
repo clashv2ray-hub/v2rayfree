@@ -213,4 +213,4 @@
 ## v2rayN使用教程：[点击查看](https://yfuye.com/kehuduanshiyongjiaocheng)
 
 ##  订阅链接：<a href="https://yfuye.com/freenode" target="_blank">点击进入订阅</a>
-
+              https://raw.githubusercontent.com/clashv2ray-hub/v2rayfree/refs/heads/main/v2ray.txt
