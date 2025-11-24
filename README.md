@@ -25,7 +25,7 @@
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) |  | 10元 300G/30天 | ✔支持 |
 | [星辰vpn](https://c.xcvpn.me/#/register?code=jWv0CnPO) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
-| [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
+| [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
@@ -122,9 +122,9 @@
 
 * * *
 
-### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.vip/#/register?code=iV0dLWfT)
 
-点击注册：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
+点击注册：[点击进入](https://flybit.vip/#/register?code=iV0dLWfT)
 
 
 
