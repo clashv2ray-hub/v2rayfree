@@ -30,7 +30,6 @@
 | [西瓜云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
-| [火烧云](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph) | [轻云](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [轻云](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
@@ -148,15 +147,6 @@
 * * *
 
 
-### [火烧云](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-点击注册：[点击进入](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-最便宜的订阅有18元 100G/月。
-
-这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。
-
-* * *
 
 ### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
@@ -169,17 +159,6 @@
 机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
 
 * * *
-
-
-
-
-
-[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【火烧云官网（点击注册）】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 
 
