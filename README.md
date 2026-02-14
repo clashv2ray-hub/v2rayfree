@@ -1,4 +1,4 @@
-## 更新时间 2026-02-13
+## 更新时间 2026-02-14
 
 # 公益免费v2ray节点订阅  每日更新  
 - ## 每个小时获取1次最新的节点信息
@@ -22,7 +22,6 @@
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
 | [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
-| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) |  | 10元 300G/30天 | ✔支持 |
 | [星辰vpn](https://c.xcvpn.me/#/register?code=jWv0CnPO) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
@@ -51,17 +50,6 @@
 ### 注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 *  *   *
-### [冲上云霄](https://cpdd.one/?r=42354)
-
-点击注册：[点击进入](https://cpdd.one/?r=42354)
-
-
-
-最便宜的订阅有10元 300G/30天。.....
-
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
-
-* * *
 <h3></h3>
 <h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?path=register&code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
 <h3>· 高速·稳定·无限可能</h3>
@@ -132,20 +120,6 @@
 解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
 
 * * *
-
-### [加速啦](https://jiasu.la/?r=42350)
-
-点击注册：[点击进入](https://jiasu.la/?r=42350)
-
-
-
-
-最便宜的订阅有10元 60G/月。
-
-全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-
-* * *
-
 
 
 ### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
