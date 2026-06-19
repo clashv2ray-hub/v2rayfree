@@ -1,4 +1,4 @@
-## 更新时间 2026-06-18
+## 更新时间 2026-06-19
 
 # 公益免费v2ray节点订阅  每日更新  
 - ## 每个小时获取1次最新的节点信息
@@ -29,7 +29,6 @@
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph) | [轻云](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
-| [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [轻云](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 
 
