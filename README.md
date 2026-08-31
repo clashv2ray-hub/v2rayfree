@@ -1,4 +1,4 @@
-## 更新时间 2026-8-30
+## 更新时间 2026-8-31
 
 # 公益免费v2ray节点订阅  每日更新  
 - ## 每个小时获取1次最新的节点信息
@@ -21,7 +21,7 @@
 
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
+| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) |  	 | 10元 300G/月 | ✔支持 |
 | [星辰vpn](https://c.kilxs.cn/#/register?code=jWv0CnPO) | [点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
@@ -34,7 +34,7 @@
 ## [简介](#简介)
 
 
-### [【88云加速】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频...
 
@@ -44,7 +44,7 @@
 
 解锁奈飞迪士尼
 
-### 注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### 注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 *  *   *
 
