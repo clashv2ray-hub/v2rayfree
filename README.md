@@ -1,4 +1,4 @@
-## 更新时间 2026-9-29
+## 更新时间 2026-9-30
 # 公益免费v2ray节点订阅  每日更新  
 - ## 每个小时获取1次最新的节点信息
 - ## 所有节点信息来自互联网
@@ -22,7 +22,7 @@
 | [星辰vpn](https://c.kilxs.cn/#/register?code=jWv0CnPO) | [点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西游云](https://d.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://d.xiyou666.xyz/?code=2mVFWPT1) |  | 9元 120G/月 |  |
+| [西游云](https://e.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://e.xiyou666.xyz/?code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph) | [轻云](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
 
