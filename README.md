@@ -21,9 +21,9 @@
 | [88云加速](https://www.8891888.xyz/#/register?code=n4KLfZJb) | [点击进入](https://www.8891888.xyz/#/register?code=n4KLfZJb) |  	 | 10元 200G/月 | ✔支持 |
 | [星辰vpn](https://c.kilxs.cn/#/register?code=jWv0CnPO) | [点击进入](https://c.kilxs.cn/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
-| [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
+| [快猫](https://www.8891888.xyz/#/register?code=9xg6G0AV) | [点击进入](https://www.8891888.xyz/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西游云](https://e.xiyou666.xyz/?code=2mVFWPT1) | [点击进入](https://e.xiyou666.xyz/?code=2mVFWPT1) |  | 9元 120G/月 |  |
-| [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
+| [稳连云](https://www.8891888.xyz/#/register?code=tsTYVbC0) | [点击进入](https://www.8891888.xyz/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [轻云](https://qingyun.world/#/register?code=C5zOLvph) | [轻云](https://qingyun.world/#/register?code=C5zOLvph) |  | 12元 100G/月 |  |
 
 
@@ -76,9 +76,9 @@
 
 
 
-### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
+### [稳连云](https://www.8891888.xyz/#/register?code=tsTYVbC0)
 
-点击注册：[点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
+点击注册：[点击进入](https://www.8891888.xyz/#/register?code=tsTYVbC0)
 
 
 
@@ -125,29 +125,6 @@
 * * *
 
 
-### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
-
-点击注册：[点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
-
-
-
-最便宜的订阅有10元 100G/月。
-
-机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
-
-* * *
-
-
-
-##  高速机场推荐3
-
-[【快猫】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
-
-季付送小火箭，流量多，优惠多
-
-而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-注册地址：[【快猫官网（点击注册）】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐4
 
